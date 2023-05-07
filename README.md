@@ -9,4 +9,4 @@ experience that allows players to visit different museums. The game consists of 
 
 ## GAME SETUP
 
-[GAME SETUP](/The-Museum.exe)
+`[DOWNLOAD](/The Museum.exe)`
